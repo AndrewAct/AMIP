@@ -31,4 +31,5 @@ I majorly used Python for this project and referred to an online class by Dr. Ry
 Make predictions with CNN and further improve accuracy.
 
 ## Image Gallery
-![image](file:///Users/chenzhuo/Desktop/Sample.jpg)
+![Sample](https://user-images.githubusercontent.com/43218650/105607530-3bbd1d00-5d6d-11eb-94e2-6ad22b656907.jpg)
+
