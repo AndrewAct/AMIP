@@ -35,4 +35,4 @@ Make predictions with CNN and further improve accuracy.
 
 ![Screen Shot 2021-01-23 at 11 05 43 AM](https://user-images.githubusercontent.com/43218650/105607567-6f984280-5d6d-11eb-944c-9e694ad6f603.png)
 
-
+![Screen Shot 2021-01-23 at 11 05 57 AM](https://user-images.githubusercontent.com/43218650/105607592-922a5b80-5d6d-11eb-93cc-84e569c14bba.png)
