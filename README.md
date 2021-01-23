@@ -33,3 +33,6 @@ Make predictions with CNN and further improve accuracy.
 ## Image Gallery
 ![Sample](https://user-images.githubusercontent.com/43218650/105607530-3bbd1d00-5d6d-11eb-94e2-6ad22b656907.jpg)
 
+![Screen Shot 2021-01-23 at 11 05 43 AM](https://user-images.githubusercontent.com/43218650/105607567-6f984280-5d6d-11eb-944c-9e694ad6f603.png)
+
+
